@@ -1,3 +1,3 @@
 # Generative Pre-Trained (GPT) from Scratch
 
-**TBA**
+**WIP** : *Work In Progress*
