@@ -1,0 +1,8 @@
+venv
+artifacts/*.json
+cache/bookcorpus/*
+cache/downloads/*
+dataset/*.arrow
+dataset/*.json
+models/*.pt
+scripts/__pycache__
